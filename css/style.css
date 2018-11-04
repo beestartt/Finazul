@@ -1290,7 +1290,7 @@ footer {
 	.box-fx .info{
 	position:absolute;
 	padding:60px 30px 60px 30px;
-	background:#fff;
+	background:#002f42;
 	color:#fff;
 	}
 	
@@ -1306,7 +1306,7 @@ footer {
 	
 	.box-fx .btn-border:hover, .box-fx a.btn-border:hover{
 	background:#fff;
-	color:#111 !important;
+	color:#002f42 !important;
 	border-color:#fff;
 	}
 	

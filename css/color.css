@@ -1,4 +1,4 @@
-/* default color: #F06807 */
+4d9ab0/* default color: #F06807 */
 #mainmenu li li a:hover,
 .price-row,
 .blog-list .date,
@@ -37,7 +37,7 @@
 span.overlay,
 .social-icons i
 {
-	background-color:#F06807;
+	background-color:#4d9ab0;
 }
 
 a,
@@ -68,7 +68,7 @@ a.btn-border:after,
 .dark .btn-border:hover:after, .dark a.btn-border:hover:after, .dark a.btn-border.hover:after,
 a.btn-text:after
 {
-	color:#F06807;
+	color:#4d9ab0;
 }
 
 .feature-box i,
@@ -87,32 +87,32 @@ a.btn-text:after
 .btn-border.hover,a.btn-border.hover
 {
 
-	border-color:#F06807;
+	border-color:#4d9ab0;
 }
 
 .box-fx .inner,
 .dark .box-fx .inner{
-	border-bottom-color:#F06807;
+	border-bottom-color:#4d9ab0;
 }
 
 .callbacks_nav {
-	background-color:#F06807;
+	background-color:#4d9ab0;
 }
 
 .widget_category li{
-border-left:solid 3px #F06807;
+border-left:solid 3px #4d9ab0;
 }
 
 .de_tab .de_nav li span {
-border-top: 3px solid #F06807;
+border-top: 3px solid #4d9ab0;
 }
 
 .feature-box-big-icon i:after {
-border-color: #F06807 transparent; /*same colour as the lower of the bubble's gradient*/
+border-color: #4d9ab0 transparent; /*same colour as the lower of the bubble's gradient*/
 }
 
 .de_review li.active img{
-	border:solid 4px #F06807;
+	border:solid 4px #4d9ab0;
 }
 
 .red{color:#ff0000 !important;}
