@@ -132,7 +132,8 @@ body {
 	font-size: 30px;
 	}
 	.logo-smaller  h1#logo .logo-1{
-	display:none;
+  display:none;
+  width: 18vh !important;
 	}
 	.logo-smaller  h1#logo .logo-2{
 		display:inline-block;
@@ -3114,7 +3115,7 @@ margin-bottom: -3px;
 	}
 	
 	.container .col-md-3{ margin-bottom:30px; }
-	.container .col-md-4{ margin-bottom:30px; }
+	.container .col-md-4{ margin-bottom:55px; }
 	.container .col-md-5{ margin-bottom:30px; }
 	.container .col-md-6{ margin-bottom:30px; }
 	.container .col-md-7{ margin-bottom:30px; }
@@ -3211,3 +3212,14 @@ margin-bottom: -3px;
 	}
 	.team img.team-pic{max-width:300px;}
 	}
+
+  
+}
+
+.justify-text {
+  text-align: justify;
+}
+
+.padding-itens {
+  padding-top: 4vh;
+}

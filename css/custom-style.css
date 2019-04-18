@@ -35,4 +35,7 @@ background-size:cover;
 .dark #section-portfolio{background:#222;}
 
 #section-testimonial{ background:url(../images/background/bg-2.jpg) top fixed;}
+.menu-logo {
+  width: 18vh !important;
+}
 
