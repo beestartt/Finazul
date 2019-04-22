@@ -1,0 +1,4 @@
+CORES DO LANDING PAGE
+#F06807 (Laranja)
+#002f42 (Azul escuro)
+#4d9ab0 (Azul claro)
